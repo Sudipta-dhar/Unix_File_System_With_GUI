@@ -94,9 +94,7 @@ void FileSystem::printWelcomeScreen() {
     std::cout << "Welcome to the Unix-style file system!" << std::endl;
     std::cout << "This is a virtual file system implemented in C++." << std::endl;
     std::cout << "-----------------------------------------#########---------------------------------------------" << std::endl;
-    std::cout << "Developed by: Project Leader[Sudia Sotra Dhar] [202169990264]" << std::endl;
-    std::cout << "Developed by: Project Co-Leader[WALID KH. J.SULEIMAN] [202169990015]" << std::endl;
-    std::cout << "Developed by: Project program Debuger[POKHREL SUBODH & Ibrahim ] [202169990044 & 202169990079]" << std::endl;
+    std::cout <<                                 "Developed by [Sudia Sotra Dhar] "                                << std::endl;
      std::cout << "-----------------------------------------#########--------------------------------------------" << std::endl;
 }
 
